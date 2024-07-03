@@ -24,7 +24,7 @@ jobs:
       github-env: npd
       environment: npd
       working-directory: layers/manage/virtual-machines
-      vars-path: ../../environments/layer/manage/npd/virtual-machines/env.tfvars
-      backend-path: ../../environments/layer/manage/npd/virtual-machines/backend.tfvars
+      vars-path: ../../../environments/layer/manage/npd/virtual-machines/env.tfvars
+      backend-path: ../../../environments/layer/manage/npd/virtual-machines/backend.tfvars
       runner-label: pe-arc-runner-shared-npd
     secrets: inherit    
