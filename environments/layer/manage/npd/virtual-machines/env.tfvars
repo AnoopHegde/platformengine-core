@@ -2,5 +2,5 @@
 ## Common Variables                    ##
 #########################################
 
-rg_name  = "example_rg_npd"
-location = "euw"
+rg_name  = "exampletest_rg_npd"
+location = "westeurope"
