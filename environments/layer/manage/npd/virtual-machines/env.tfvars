@@ -3,4 +3,4 @@
 #########################################
 
 rg_name  = "exampletest_rg_npd"
-location = "euw"
+location = "westeurope"
